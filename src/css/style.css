@@ -202,7 +202,7 @@ h3 {
     text-align : justify;
 }
 
-@media only screen and (max-width: 540px) {
+@media only screen and (max-width: 640px) {
 
     :root {
         --primary-color : #e8505b;
